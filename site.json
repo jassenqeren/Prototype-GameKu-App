@@ -1,0 +1,10 @@
+{
+  "description": "A marketplace for gamers in Indonesia to buy and sell in-game items, top up digital currencies, and connect with other players seamlessly.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
